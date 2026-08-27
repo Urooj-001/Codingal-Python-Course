@@ -1,0 +1,8 @@
+print("I wake up at 11 am.")
+print("I freshen up and eat my breakfast by 12pm.")
+print("Then I join my tuition class which goes on till 1pm.")
+print("Then i go help my mom in household chores.")
+print("Then by 5pm my dad comes back from office and we all eat lunch.")
+print("Then for 2 or 3 hours i spend studying.")
+print("After a while i spend my time either watching videos or playing games.")
+print("I have my dinner by 10 pm and go to sleep by 11pm.")
