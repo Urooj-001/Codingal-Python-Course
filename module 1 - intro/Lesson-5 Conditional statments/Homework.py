@@ -6,4 +6,4 @@ elif temp <=15:
     print("Wow its really cold, isnt it? Make sure you wear warm clothes that could prevent you from catching a cold!.")
     print("Dont forget to drink a hot chocolate!")
 else:
-    print("WHAT PLANET ARE YOU LIVING ON")
+    print("WHAT PLANET ARE YOU LIVING")
