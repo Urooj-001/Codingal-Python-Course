@@ -1,8 +1,9 @@
 import turtle
-turtle.Screen().bgcolor("#F08080")  #hashtag gives color (Hexcode color)
+turtle.Screen().bgcolor("#652C2C")  #hashtag gives color (Hexcode color)
 turtle.Screen().setup(500 , 500)
 pen = turtle.Turtle()
-pen.color("#2E3F2C")
+pen.color("#60EF18")
+turtle.pensize(10)                 
 pen.forward(100)
 pen.left(120)
 pen.forward(100)
@@ -20,11 +21,4 @@ pen.forward(100)
 pen.right(120)
 pen.forward(100)
 pen.right(150)
-
-
-
-
-
-
-
 turtle.done()
