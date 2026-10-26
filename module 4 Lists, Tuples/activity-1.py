@@ -3,7 +3,7 @@
 #insert gives u the deseired elemed (index which u wanna replace, the desired element)
 #nested listed also known as matrix
 #in nested list (row,column)
-
+#liss r 0-based
 
  #Create an empty list named `empty_list`.
 empty_list = []
