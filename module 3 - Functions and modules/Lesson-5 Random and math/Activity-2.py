@@ -23,8 +23,10 @@ while True:
     play_again = input("Press 'yes' to play again or 'no' to not play again: ")
     if play_again != 'yes':
         break
+
     else:
-        print("Okay bye!")    
+        continue
+            
     
         
    
