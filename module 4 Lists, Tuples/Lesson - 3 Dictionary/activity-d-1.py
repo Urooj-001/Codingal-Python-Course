@@ -1,7 +1,7 @@
 #in dictionay, dosent always store in sequence
 #two keys cannot be same , values can be.
 #iteams gives the dict in the list then the elements in tuple form
-#lists doesnt stores keyvalues but dict dosent
+#lists does stores keyvalues but dict dosent
 #dict is mutable.
 #pop -gotta give the key to remove, pop iteam- by default removes the last element
 #dictname.clear() -> gives only {}

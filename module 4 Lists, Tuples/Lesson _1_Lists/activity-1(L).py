@@ -1,6 +1,6 @@
 #pop removes the last element given in a list
 #append adds element
-#insert gives u the deseired elemed (index which u wanna replace, the desired element)
+#insert gives u the deseired element (index which u wanna replace, the desired element)
 #nested listed also known as matrix
 #in nested list (row,column)
 #lists r 0-based
