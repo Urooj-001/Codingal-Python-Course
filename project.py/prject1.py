@@ -73,3 +73,7 @@ except ZeroDivisionError:
 
 finally:
     print("Thank you for using the Function Calculator!")
+
+
+
+#why did this lowkey take forever omg
